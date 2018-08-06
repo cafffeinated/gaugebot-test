@@ -1,2 +1,2 @@
 # gaugebot-test
-A repo for testing guagebot features.
+A test repo for testing guagebot features.
